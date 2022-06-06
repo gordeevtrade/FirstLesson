@@ -1,2 +1,2 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, Artem!");
+Console.WriteLine("Hello, Second Branch!");
